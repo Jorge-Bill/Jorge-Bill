@@ -7,6 +7,7 @@
 
 - 👾 &nbsp; Learning new tecnology everyday and passionate about working on web development.
 - 💼 &nbsp; Working as a Full Stack Web Developer at FDTE.
+- 👨🏻‍&nbsp; You can know my work on my blog [jorgemendes.com.br](https://jorgemendes.com.br/)
 
 ___
 
