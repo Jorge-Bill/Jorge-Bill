@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/Jorge-Bill/Jorge-Bill/master/assets/jorge.png">
 
-<h2> Hello World! I'm Jorge M. </h2>
-<p>Web Developer full stack</p>
+<h2> Hello World! I'm Jorge Mendes. </h2>
+<p>Sênior Web Developer Full-Stack</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👾 &nbsp; Learning new tecnology everyday and passionate about working on web development.
-- 💼 &nbsp; Working as a Full Stack Web Developer at FDTE.
+- 💼 &nbsp; Working as a Sênior Full-Stack Web Developer at [Escala](https://escala.app/).
 - 👨🏻‍&nbsp; You can know my work on my blog [jorgemendes.com.br](https://jorgemendes.com.br/)
 
 ___
@@ -65,6 +65,6 @@ ___
 <p align="center">
 <a href="https://www.linkedin.com/in/jorge-mendes-83a572a7/?locale=en_US"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jorge.mendesx@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/jorgebillsilva/?hl=pt-br"><img src="https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/jorgebill.silva"><img src="https://img.shields.io/badge/-facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
