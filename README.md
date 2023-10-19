@@ -3,11 +3,11 @@
 <h1> Hello World! I'm Jorge Mendes. </h1>
 
 <p>Senior Web Developer Full-Stack</p>
-<p>- <i>Hello, I'm Jorge, a web developer with 10 years of experience in the market. Throughout my career, I have gained a deep understanding of the technologies and programming languages necessary to develop high-quality applications and websites. My ability to create efficient and effective solutions is one of my most valued strengths by my employers and clients </i></p>
+<p>- <i>Hello, I'm Jorge, a web developer with <b>10 years of experience </b> in the market. Throughout my career, I have gained a deep understanding of the technologies and programming languages necessary to develop high-quality applications and websites. My ability to create efficient and effective solutions is one of my most valued strengths by my employers and clients </i></p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<img src="https://raw.githubusercontent.com/Jorge-Bill/Jorge-Bill/master/assets/dev.gif" width="30%" align="right" />
+<img src="https://raw.githubusercontent.com/Jorge-Bill/Jorge-Bill/master/assets/dev.gif" width="35%" align="right" />
 
 - 👾 &nbsp; Learning new tecnology everyday and passionate about working on web development.
   
@@ -99,11 +99,11 @@
     <p align="center">
     <h3>📄📜 &nbsp;Stats</h3>
     <a href="https://github.com/Jorge-Bill">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jorge-Bill&theme=algolia&show_icons=true&include_all_commits=true&count_private=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jorge-Bill&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
     <br>
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge-Bill"/>
     <br>
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Bill&theme=algolia&layout=compact" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Bill&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&layout=compact" />
     </a>
     </p>
     </td>
