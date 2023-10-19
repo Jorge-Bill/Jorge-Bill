@@ -1,22 +1,28 @@
 <img width="100%" align="center" src="https://raw.githubusercontent.com/Jorge-Bill/Jorge-Bill/master/assets/jorge.png">
-<br><br>
+<br>
 <h1> Hello World! I'm Jorge Mendes. </h1>
 
 <p>Senior Web Developer Full-Stack</p>
-<p>- <i>Hello, I'm Jorge, a web developer with <b>10 years of experience </b> in the market. Throughout my career, I have gained a deep understanding of the technologies and programming languages necessary to develop high-quality applications and websites. My ability to create efficient and effective solutions is one of my most valued strengths by my employers and clients </i></p>
+<p>- <i>Hello, I'm Jorge, a web developer with <b>10 years of experience </b> in the market. Throughout my career, I have gained a deep understanding of the technologies and programming languages necessary to develop high-quality applications and websites. My ability to create efficient and effective solutions is one of my most valued strengths by my employers and clients. </i></p>
+
+<br />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<img src="https://raw.githubusercontent.com/Jorge-Bill/Jorge-Bill/master/assets/dev.gif" width="35%" align="right" />
+<img src="https://raw.githubusercontent.com/Jorge-Bill/Jorge-Bill/master/assets/dev.gif" width="50%" align="right" />
 
 - 👾 &nbsp; Learning new tecnology everyday and passionate about working on web development.
   
-- 💼 &nbsp; Working as a Sênior Full-Stack Web Developer at [Escala](https://escala.app/).
+- 💼 &nbsp; Working as a Senior Full-Stack Web Developer at [Escala](https://escala.app/).
   
-- 👨🏻‍&nbsp; You can know my work on my blog [jorgemendes.com.br](https://jorgemendes.com.br/)
+- 👨🏻‍ &nbsp; You can know my work on my blog [jorgemendes.com.br](https://jorgemendes.com.br/)
+
+- 📖 ‍&nbsp; On my free time, i love read books
+
+- ⚡ &nbsp; current studing new tecnologies
+
 
 <br />
-<hr />
 
 <table width="100%">
   <tr>
@@ -109,14 +115,14 @@
     </td>
   </tr>
 </table>
-
+<br />
 <div align="center">
   <b>Visitors Count</b>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jorge-Bill}/count.svg" /></p> 
   <br>
 </div>
 
-<h3> 🎯 &nbsp; Connect Me </h3>
+<h3> 📬📥 &nbsp; Connect Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jorge-mendes-83a572a7/?locale=en_US"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
