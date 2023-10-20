@@ -26,7 +26,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%">
+    <td>
       <p>
         <h3> 🛠 &nbsp;Technical Skills</h3>
       <p>
@@ -100,22 +100,18 @@
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
       </p>
     </td>   
-
-  <td>
-    <p align="center">
-    <h3>📄📜 &nbsp;Stats</h3>
-    <a href="https://github.com/Jorge-Bill">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jorge-Bill&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
-    <br>
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge-Bill"/>
-    <br>
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Bill&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&layout=compact" />
-    </a>
-    </p>
-    </td>
   </tr>
 </table>
 <br />
+<div align="center">
+    <h3>📄📜 &nbsp;Stats</h3>
+    <a href="https://github.com/Jorge-Bill">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Jorge-Bill&theme=algolia&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge-Bill"/>
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Bill&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&layout=compact" />
+    </a>
+</div>
+<br>
 <div align="center">
   <b>Visitors Count</b>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jorge-Bill}/count.svg" /></p> 
