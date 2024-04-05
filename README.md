@@ -11,15 +11,15 @@
 
 <img src="https://raw.githubusercontent.com/Jorge-Bill/Jorge-Bill/master/assets/dev.gif" width="50%" align="right" />
 
-- 👾 &nbsp; Learning new tecnology everyday and passionate about working on web development.
+- 👾 &nbsp; Learning new technology everyday and passionate about working on web development.
   
 - 💼 &nbsp; Working as a Senior Full-Stack Web Developer at [Escala](https://escala.app/).
   
-- 👨🏻‍ &nbsp; You can know my work on my blog [jorgemendes.com.br](https://jorgemendes.com.br/)
+- 👨🏻‍ &nbsp; You can know my work on my website [jorgemendes.com.br](https://jorgemendes.com.br/) or [Linkeding](https://www.linkedin.com/in/jorge-mendes-83a572a7/) profile.
 
 - 📖 ‍&nbsp; On my free time, i love read books
 
-- ⚡ &nbsp; current studing new tecnologies
+- ⚡ &nbsp; current studying new technologies
 
 
 <br />
