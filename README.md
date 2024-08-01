@@ -14,6 +14,8 @@
 - 👾 &nbsp; Learning new technology everyday and passionate about working on web development.
   
 - 💼 &nbsp; Working as a Senior Full-Stack Web Developer at [Escala](https://escala.app/).
+
+- 📱&nbsp; Professional GIT Repository at Escala [jorgeMendes-escala](https://github.com/jorgeMendes-escala)
   
 - 👨🏻‍ &nbsp; You can know my work on my website [jorgemendes.com.br](https://jorgemendes.com.br/) or [Linkeding](https://www.linkedin.com/in/jorge-mendes-83a572a7/) profile.
 
